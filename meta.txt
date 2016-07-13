@@ -1,0 +1,7 @@
+{
+"nombre": "collar1",
+"codigo": "collar1",
+"fila": 1,
+"columna": 3,
+"precio": "123"
+}
